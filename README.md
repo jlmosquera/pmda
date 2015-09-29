@@ -1,6 +1,6 @@
 # `pmda` R-source pipeline
 
-`sims` is an R pipeline for finding Differentially Methylated Regions (DMR) between different experimental conditions of a specific region of a DNA sequence, whose samples have been treated with bisulfite and sequenced with a 454 GS FLX system.
+`pmda` is an R pipeline for finding Differentially Methylated Regions (DMR) between different experimental conditions of a specific region of a DNA sequence, whose samples have been treated with bisulfite and sequenced with a 454 GS FLX system.
 
 __Contents__
 
