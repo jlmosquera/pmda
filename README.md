@@ -83,7 +83,7 @@ Next release will be packaged all the cource of the pipeline and it will be well
 
 ## 7. Authors
 
-* Msc candidate (Author and Mantainer): Jose Luis Mosquera, PhD (jlmosquera@gmail.com) - Department of Systems Biology. University of Vic - Central University of Catalonia
+* Author and Mantainer: Jose Luis Mosquera, PhD (jlmosquera@gmail.com) - Department of Systems Biology. University of Vic - Central University of Catalonia. Currently at the Bioinformatics/Biostatistics Uniat - IRB Barcelona.
 * Supervisor: Malu Calle Rosingana, PhD - Department of Systems Biology. University of Vic - Central University of Catalonia
 * Co-supervisor: Marta Barrachina Castillo, PhD - Institute of Neuropathology - Bellvitge University Hospital
 
